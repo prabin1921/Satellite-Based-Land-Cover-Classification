@@ -1,0 +1,5 @@
+{
+  "avg_test_loss": 6.9039111733436584,
+  "test_pixel_accuracy": 0.007783755332985814,
+  "num_eval_patches": 56
+}

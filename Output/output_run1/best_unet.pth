@@ -1,0 +1,4 @@
+This chapter presents the methodological framework used to develop a land-cover classification model using Sentinel-2 satellite imagery and a U-Net convolutional neural network. The methodology follows a hybrid approach: it describes the ideal theoretical workflow commonly used in deep learning–based remote sensing (drawing selectively from Option A), while simultaneously incorporating the realistic constraints, adjustments, and iterative refinements that occurred during experimentation (Option B). Such a blended perspective allows the reader to understand both the conceptual rationale behind the chosen methods and the practical considerations that shaped the final operational pipeline.
+
+The methodology is structured into seven major components:
+(1) study area and data selection, (2) Sentinel-2 preprocessing, (3) label alignment using ESA WorldCover, (4) patch generation, (5) U-Net architecture, (6) Random Forest baseline, and (7) evaluation metrics.
