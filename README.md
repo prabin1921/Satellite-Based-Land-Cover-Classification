@@ -69,24 +69,17 @@ Although the final classification performance was limited, the project successfu
 **Project Structure**
 
 Satellite-Based-Land-Cover-Classification/
-│
-├── Data/
-│   └── Original satellite and label data
-│
-├── Output/
-│   └── Model outputs and results
-│
-├── Outputs/
-│   └── Additional outputs and visualisations
-│
-├── Module.ipynb
-│   └── Main project notebook
-│
-├── Visualisation.ipynb
-│   └── Results visualisation and analysis
-│
-├── Report.pdf
-│   └── MSc dissertation/project report
-│
-└── README.md
-    └── Project documentation
+Data
+    >Original satellite and label data
+Output
+    >Model outputs and results
+Outputs
+    >Additional outputs and visualisations
+Module.ipynb
+    >Main project notebook
+Visualisation.ipynb
+    >Results visualisation and analysis
+Report.pdf
+    >MSc dissertation/project report
+README.md
+    >Project documentation
